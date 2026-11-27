@@ -1,0 +1,16 @@
+ultralytics
+streamlit
+torch
+torchvision
+Pillow
+numpy
+pandas
+opencv-python-headless
+matplotlib
+onnxruntime
+tqdm
+transformers
+PyYAML
+scipy
+scikit-learn
+requests
